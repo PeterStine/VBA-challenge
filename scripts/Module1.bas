@@ -16,8 +16,8 @@ Sub countTickerSymbols()
     tradingSymbol = Range("A2").Value
 
     'Create for loop to count number of symbols
-    'outer loop for each TLA symbol
-        'inner loop for each individual TLA symbol of a set
+    'outer loop for each trading symbol
+        'inner loop for each individual trading symbol of a set
         'end inner loop
     'end outer loop
 
